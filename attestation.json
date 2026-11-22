@@ -1,0 +1,9 @@
+{
+  "pluginId": "neodex.decorfireflies",
+  "repo": "NDesumeur/neodex-plugin-decor-fireflies",
+  "version": "1.0.0",
+  "sha256": "790150fd2aa0a089336c2df26283179d8ddfffd7504b90dc1adbdf5e9232f9a1",
+  "approvedAt": "2026-11-22T19:05:25.716Z",
+  "neobase": ">=4.1.0",
+  "signature": "Ea5psa//QLTwmgJ1K+Y5d+UW8zhhtUheG/L02Obm8XZcp6zvdlP6WFATTzkkoibFEdhHTNE22E8BraEsEFf3Cw=="
+}
